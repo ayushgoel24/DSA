@@ -2,7 +2,7 @@ class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         answers = [1] * len(nums)
         
-        temp = 1;
+        temp = 1
         for i in range(len(nums)):
             answers[i] = temp
             temp *= nums[i]
