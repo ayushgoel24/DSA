@@ -1,3 +1,8 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 class Solution {
 private:
     void dfs(int i, int j, int n, int m, vector<vector<int>>& grid, vector<vector<bool>>& vis, int neighLoc[]) {
