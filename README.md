@@ -52,8 +52,8 @@ Last updated- 2nd December 2019
 
 - [x] [Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
-- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacificatlanticwaterflow/)
-- [ ] [Number of Islands](https://leetcode.com/problems/numberofislands/)
+- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longestconsecutivesequence/)
 - [ ] [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/aliendictionary/)
 - [ ] [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graphvalidtree/)
