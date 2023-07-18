@@ -5,8 +5,8 @@ public:
         vector<int> adj[numCourses];
         vector<int> indegree(numCourses, 0);
         for (auto it : prerequisites ) {
-           adj[it[0]].push_back(it[1]);
-           indegree[it[1]]++;
+           adj[it[1]].push_back(it[0]);
+           indegree[it[0]]++;
         }
 
         queue<int> q;
