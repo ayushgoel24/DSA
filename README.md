@@ -51,7 +51,7 @@ Last updated- 2nd December 2019
 ## Graph
 
 - [x] [Clone Graph](https://leetcode.com/problems/clone-graph/)
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [x] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longestconsecutivesequence/)
